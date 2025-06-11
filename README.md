@@ -10,7 +10,7 @@ Follow these steps to set up and run the API:
 
 1. **Clone this repository** (if using Git):
     ```bash
-    git clone https://github.com/paulafredo/free-api-like-freefire
+    git clone https://github.com/x-lgr/free-api-like-freefire
     cd free-api-like-freefire
     ```
 
